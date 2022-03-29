@@ -29,16 +29,17 @@ The following optional features are implemented:
 - [ ] Game button appearance change goes beyond color (e.g. add an image)
 - [ ] Game button sound is more complex than a single tone (e.g. an audio file, a chord, a sequence of multiple tones)
 - [ ] User has a limited amount of time to enter their guess on each turn
-- [ ] The following additional features are implemented:
 
-List anything else that you can get done to improve the app!
+The following additional features are implemented:
 
-Video Walkthrough (GIF)
+- [ ] List anything else that you can get done to improve the app!
+
+# Video Walkthrough (GIF)
 
 If you recorded multiple GIFs for all the implemented features, you can add them here:    
 https://recordit.co/LvrVeqfsNI
 
-Reflection Questions
+# Reflection Questions
 If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
 
 
@@ -55,10 +56,12 @@ If you had a few more hours to work on this project, what would you spend them d
 Be specific. (recommended 100 - 300 words) 
 [YOUR ANSWER HERE]
 
-Interview Recording URL Link
+# Interview Recording URL Link
 My 5-minute Interview Recording
 
-''' License
+# License
+
+```
 Copyright Youstina Gerges
 
 Licensed under the Apache License, Version 2.0 (the "License");
@@ -71,7 +74,7 @@ Unless required by applicable law or agreed to in writing, software
 distributed under the License is distributed on an "AS IS" BASIS,
 WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 See the License for the specific language governing permissions and
-limitations under the License. '''
+limitations under the License. 
 
 
 
