@@ -2,23 +2,25 @@
 #### Memory Game is a Light & Sound Memory game to apply for CodePath's SITE Program.
 
 Submitted by: Youstina Gerges
+
 Time spent: 4 hours spent in total
+
 Link to project: https://delicious-snowy-argument.glitch.me/
 
 # Required Functionality
 The following required functionality is complete:
 
 - [x] Game interface has a heading (h1 tag), a line of body text (p tag), and four buttons that match the demo app
- [check] "Start" button toggles between "Start" and "Stop" when clicked.
- [check] Game buttons each light up and play a sound when clicked.
- [check] Computer plays back sequence of clues including sound and visual cue for each button
- [check] Play progresses to the next turn (the user gets the next step in the pattern) after a correct guess.
- [check] User wins the game after guessing a complete pattern
- [check] User loses the game after an incorrect guess
+- [x] "Start" button toggles between "Start" and "Stop" when clicked.
+- [x] Game buttons each light up and play a sound when clicked.
+- [x] Computer plays back sequence of clues including sound and visual cue for each button
+- [x] Play progresses to the next turn (the user gets the next step in the pattern) after a correct guess.
+- [x] User wins the game after guessing a complete pattern
+- [x] User loses the game after an incorrect guess
  
 The following optional features are implemented:
 
- Any HTML page elements (including game buttons) has been styled differently than in the tutorial
+-[ ] Any HTML page elements (including game buttons) has been styled differently than in the tutorial
  Buttons use a pitch (frequency) other than the ones in the tutorial
  More than 4 functional game buttons
  Playback speeds up on each turn
