@@ -20,7 +20,7 @@ The following required functionality is complete:
  
 The following optional features are implemented:
 
--[ ] Any HTML page elements (including game buttons) has been styled differently than in the tutorial
+- [ ] Any HTML page elements (including game buttons) has been styled differently than in the tutorial
  Buttons use a pitch (frequency) other than the ones in the tutorial
  More than 4 functional game buttons
  Playback speeds up on each turn
@@ -31,25 +31,29 @@ The following optional features are implemented:
  User has a limited amount of time to enter their guess on each turn
 The following additional features are implemented:
 
- List anything else that you can get done to improve the app!
+List anything else that you can get done to improve the app!
+
 Video Walkthrough (GIF)
 
 If you recorded multiple GIFs for all the implemented features, you can add them here:    
 https://recordit.co/LvrVeqfsNI
 
 Reflection Questions
-If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. [YOUR ANSWER HERE]
+If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
+[YOUR ANSWER HERE]
 
-What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) [YOUR ANSWER HERE]
+What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
+[YOUR ANSWER HERE]
 
-What questions about web development do you have after completing your submission? (recommended 100 - 300 words) [YOUR ANSWER HERE]
+What questions about web development do you have after completing your submission? (recommended 100 - 300 words) 
+[YOUR ANSWER HERE]
 
 If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words) [YOUR ANSWER HERE]
 
 Interview Recording URL Link
 My 5-minute Interview Recording
 
-License
+'''License
 Copyright Youstina Gerges
 
 Licensed under the Apache License, Version 2.0 (the "License");
@@ -62,7 +66,7 @@ Unless required by applicable law or agreed to in writing, software
 distributed under the License is distributed on an "AS IS" BASIS,
 WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 See the License for the specific language governing permissions and
-limitations under the License.
+limitations under the License.'''
 
 
 
